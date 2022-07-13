@@ -8,14 +8,14 @@ This project is made mostly for Developer who is looking to showcase he's projec
 1. Fork this repository 
 2. Go to developers-projects/components/data.js
 3. Add yourself under this format 
-- {
-projectName:  'Guitar',
-projectURL:  'https://guitar-player.netlify.app/',
-shortDescription:  'Play with a Virtual Guitar',
-developerName:  'Netaniel Wahnich',
-emoji:  '🎸',
-backgroundColor:  'black'
-},
+  - {
+  projectName:  'Guitar',
+  projectURL:  'https://guitar-player.netlify.app/',
+  shortDescription:  'Play with a Virtual Guitar',
+  developerName:  'Netaniel Wahnich',
+  emoji:  '🎸',
+  backgroundColor:  'black'
+  },
 
 4. For the **Emoji** you can use this page https://emojipedia.org/ 
 Find the one that you like the most or describe your project 🤯.
@@ -26,4 +26,4 @@ Find the one that you like the most or describe your project 🤯.
 9.  Now go enjoy and look what others developers are creating 😜.
 
 ## 
-We deserve the rights to remove a projects or not accept a PR if we think your project is not appropriate.
+We deserve the rights to remove a project or not accept a PR if we think your project is not appropriate.
