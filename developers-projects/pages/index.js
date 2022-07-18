@@ -17,7 +17,7 @@ export default function Home(props) {
     </Head>
      
      
-      <div style={{background: 'red'}}>
+      <div>
       <Header/>
       <Boxes data={props.usersData}/>
       <Footer/>
