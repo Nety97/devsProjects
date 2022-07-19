@@ -14,9 +14,7 @@ export default function Home(props) {
       <title>Developers Projects</title>
       <meta name="description" content="Find out what developers are building. Expose your projects to other Developers. Get inspiration to create your first project by others. " />
       <link rel="icon" href="/favicon.ico" />
-      <link rel="preconnect" href="https://fonts.googleapis.com"/>
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-      <link href="https://fonts.googleapis.com/css2?family=Fira+Mono&family=Kaushan+Script&display=swap" rel="stylesheet"/>
+
     </Head>
      
      
